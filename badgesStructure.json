@@ -1,0 +1,32 @@
+{
+    "staff": {
+        "type": "staff",
+        "icon": "<:staff:782011980654575626>",
+        "title": "Bot Staff",
+        "order": 0
+    },
+    "early_supporter": {
+        "type": "early_supporter",
+        "icon": null,
+        "title": "Early Supporter",
+        "order": 1
+    },
+    "member": {
+        "type": "member",
+        "icon": "<:man_standing:782581561085919262>",
+        "title": "Member",
+        "order": 2
+    },
+    "contributor": {
+        "type": "contributor",
+        "icon": null,
+        "title": "Contributor",
+        "order": 3
+    },
+    "bug_hunter": {
+        "type": "bug_hunter",
+        "icon": null,
+        "title": "Bug Hunter",
+        "order": 4
+    }
+}

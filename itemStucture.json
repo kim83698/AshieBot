@@ -1,0 +1,16 @@
+{
+    "christmas_tree": {
+        "title": "Christmas Tree",
+        "description": "buy a x-mas tree",
+        "cost": "7",
+        "buyable": true,
+        "id": "christmas_tree"
+    },
+    "snow_man": {
+        "title": "Snow Man",
+        "description": "buy a snow man",
+        "cost": "10",
+        "buyable": true,
+        "id": "snow_man"
+    }
+}
